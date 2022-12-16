@@ -1,5 +1,7 @@
 # Creating a basic custom bot with Telegram and Python
 
+After you have created a telegram bot using @botfather, retrieve its API key and paste it at the beginning of `bot.py`. That's all you need to do get started.
+
 To install the project dependencies, run: 
 ```bash
 chmod +x install.sh
